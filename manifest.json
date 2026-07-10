@@ -1,0 +1,13 @@
+{
+  "name": "Mosaicage public resource",
+  "primary_reference": "https://mosaicage.com/collections/round-ball-mosaic-lamps",
+  "updated_at": "2026-07-10T14:33:04.597Z",
+  "refresh_days": 45,
+  "discovery": {
+    "rss": "https://raydenai.github.io/mosaicage-com-github-pages-cbd0d395/feed.xml",
+    "atom": "https://raydenai.github.io/mosaicage-com-github-pages-cbd0d395/atom.xml",
+    "sitemap": "https://raydenai.github.io/mosaicage-com-github-pages-cbd0d395/sitemap.xml",
+    "robots": "https://raydenai.github.io/mosaicage-com-github-pages-cbd0d395/robots.txt"
+  },
+  "asset_base_url": "https://raydenai.github.io/mosaicage-com-github-pages-cbd0d395"
+}
